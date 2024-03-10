@@ -1,0 +1,2 @@
+product_category and product has foreign key relationship.which means id or primary key of the product_category is assigned to foreign key to product field name(key) product table in sql.It is one to many relationship.
+Validation should be done using ORM.integer value with null value can not be added to the database
